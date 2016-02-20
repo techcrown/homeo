@@ -125,6 +125,9 @@ GEM
     tilt (1.4.1)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
+    uglifier (2.7.2)
+      execjs (>= 0.3.0)
+      json (>= 1.8.0)
 
 PLATFORMS
   ruby
@@ -138,3 +141,4 @@ DEPENDENCIES
   rails (= 4.2.0)
   sass-rails (~> 4.0.3)
   sdoc (~> 0.4.0)
+  uglifier
